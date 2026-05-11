@@ -11,9 +11,15 @@ x³ − x² + β³ = 0
 Topological Integrity Gravity (TIG) describes horizon formation as a structural necessity emerging from nonlinear constraint dynamics.  
 The governing relation defines a fixed-point transition between regimes of continuity and collapse.
 
-## Paper
+## Papers
+
+### TIG1 — Foundational Structural Framework
 
 https://integrity-nexus-kai.github.io/TIG.pdf
+
+### TIG2 — Exact Cubic Branch Structure of Structural Horizon Formation
+
+https://integrity-nexus-kai.github.io/TIG2.pdf
 
 ## Website
 

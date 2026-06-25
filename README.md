@@ -2,6 +2,29 @@
 
 A structurally constrained framework for horizon formation and high-curvature vacuum admissibility.
 
+---
+
+## License and Canonical Status
+
+This website repository is governed by the **Canonical Integrity License v1.0**.
+
+See:
+
+- `LICENSE`
+- `CANONICAL_STATUS.md`
+
+Core rule:
+
+```text
+Share: yes.
+Cite: yes.
+Study: yes.
+Independent further development: yes.
+Modify or redistribute canonical website material as canonical: no.
+```
+
+---
+
 ## Core Equation
 
 x³ − x² + β³ = 0
@@ -42,3 +65,24 @@ https://integrity-nexus-kai.github.io/
 ## Repository
 
 https://github.com/integrity-nexus-kai/integrity-nexus-kai.github.io
+
+---
+
+## Citation
+
+If referencing this website repository, please cite the repository metadata defined in:
+
+`/CITATION.cff`
+
+---
+
+## Author
+
+Kai Stefan Dietrich  
+Independent Researcher
+
+Official contact:  
+kai.physics@protonmail.ch
+
+GitHub:  
+https://github.com/integrity-nexus-kai

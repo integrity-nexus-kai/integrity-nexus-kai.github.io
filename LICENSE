@@ -1,24 +1,76 @@
-TIG Public Research License
-===========================
+# Canonical Integrity License v1.0
 
 Copyright (c) 2026 Kai Stefan Dietrich
 
-The public TIG publication material provided through this repository and the associated website may be:
+Repository: integrity-nexus-kai.github.io
 
-- read,
-- downloaded,
-- cited,
-- referenced,
-- and discussed for scientific and academic purposes.
+---
 
-No claim is made that the material constitutes a completed or peer-reviewed physical theory unless explicitly stated.
+## Core Rule
 
-The following restrictions apply:
+```text
+Share: yes.
+Cite: yes.
+Study: yes.
+Build upon independently: yes.
+Modify the canonical material: no.
+Misrepresent modified material as canonical: no.
+```
 
-- redistribution of modified versions under the same title without attribution is prohibited;
-- commercial reuse requires explicit permission from the author;
-- unpublished exploratory research branches are not included under this public release layer.
+---
 
-Representative simulations and visualizations are provided for scientific illustration and research communication purposes.
+## Canonical Repository
 
-All rights not explicitly granted remain reserved by the author.
+```text
+https://github.com/integrity-nexus-kai/integrity-nexus-kai.github.io
+```
+
+Only author-approved changes in the canonical repository are considered canonical website material.
+
+---
+
+## Permitted Uses
+
+You may read, study, cite, link to, share unchanged copies with attribution, review, criticize, audit, and build independent work inspired by the material.
+
+Independent work is allowed when clearly marked as independent and non-canonical.
+
+---
+
+## Attribution
+
+Any public use, citation, review, or reference should identify:
+
+```text
+Kai Stefan Dietrich
+integrity-nexus-kai.github.io
+https://github.com/integrity-nexus-kai/integrity-nexus-kai.github.io
+```
+
+Do not imply endorsement, co-authorship, approval, peer review, or institutional validation unless explicitly granted in writing.
+
+---
+
+## Modification Boundary
+
+You may not publish, redistribute, or present modified versions of the canonical documents, website material, structure, or research architecture as if they were the original or canonical material.
+
+Modified versions must not use the project name in a way that suggests canonical status, author approval, or continuity with the original repository.
+
+---
+
+## No Warranty
+
+The material is provided as-is, without warranty of any kind. Use of the material is at your own risk.
+
+---
+
+## Rights Reserved
+
+All rights not expressly granted in this license are reserved by Kai Stefan Dietrich.
+
+---
+
+## Legal Note
+
+This is a custom research-governance license. It is not an OSI-approved open-source license.

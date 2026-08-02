@@ -1,5 +1,7 @@
 # Topological Integrity Gravity (TIG)
 
+> Governance candidate: the website's local mapping to the draft TIG Research Governance Standard is recorded in `governance/TRGS_LOCAL_PROFILE.md`. The site remains a publication surface, not a scientific-status authority.
+
 A structurally constrained framework for horizon formation and high-curvature vacuum admissibility.
 
 ---
